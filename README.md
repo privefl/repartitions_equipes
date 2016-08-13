@@ -10,7 +10,7 @@ Comme je n'avais pas trouvé de solution déterministe à ce problème, j'ai d'a
 L'algorithme avait un cout exponentiel. 
 En pratique, il était très rapide jusqu'à 10 équipes. Pour 11 et 12 équipes, cela pouvait prendre jusqu'à une heure.
 
-### Nouvelle solution
+### Nouvelle solution instantanée
 
 J'ai trouvé une solution déterministe à ce problème! J'applique ensuite une permutation aléatoire sur les équipes et les journées de matchs pour rendre le résultat complètement aléatoire. La solution fait aussi en sorte que chaque équipe reçoive autant à domicile que les autres.
 
