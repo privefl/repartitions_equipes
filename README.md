@@ -2,7 +2,7 @@
 
 ### Description
 
-Application [shiny](http://shiny.rstudio.com/) pour répartir les matchs d'un [tournoi toutes rondes](https://fr.wikipedia.org/wiki/Tournoi_toutes_rondes) simple.
+Application [Shiny](http://shiny.rstudio.com/) pour répartir les matchs d'un [tournoi toutes rondes](https://fr.wikipedia.org/wiki/Tournoi_toutes_rondes) simple.
 
 ### Ancienne solution
 
